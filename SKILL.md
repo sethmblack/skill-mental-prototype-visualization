@@ -3,7 +3,7 @@ name: mental-prototype-visualization
 description: Develop, test, and refine designs entirely in your mind before any physical or digital construction, using Nikola Tesla's systematic visualization methodology.
 license: MIT
 metadata:
-  version: 1.0.4481
+  version: 1.0.4482
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
